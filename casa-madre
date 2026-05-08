@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Inopesservices – Radici · Evoluzione · Presenza</title>
+  <meta name="description" content="Inopesservices è la casa madre silenziosa che custodisce le radici di un percorso di etica, bellezza e provvidenza. «La pietra scartata diventa testata d'angolo.»">
+  <meta name="keywords" content="Inopesservices, etica, bellezza, provvidenza, pietra scartata, Antonino Gulotta">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Georgia', 'Times New Roman', Times, serif;
+      background: #fef9e8 url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" opacity="0.05"><path fill="none" d="M20,20 L80,20 M20,40 L80,40 M20,60 L80,60 M20,80 L80,80" stroke="%23808080" stroke-width="1"/></svg>');
+      background-size: 20px 20px;
+      color: #2c2b28;
+      line-height: 1.5;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .container {
+      max-width: 780px;
+      margin: 0 auto;
+      padding: 2rem 1.5rem;
+      flex: 1;
+    }
+
+    header {
+      text-align: center;
+      margin-bottom: 2.5rem;
+      border-bottom: 1px solid #dcd5c0;
+      padding-bottom: 1.5rem;
+    }
+
+    .logo {
+      font-size: 2.2rem;
+      letter-spacing: 2px;
+      font-weight: normal;
+      color: #8b7a5b;
+    }
+
+    .logo span {
+      font-weight: bold;
+      color: #4a5b3c;
+    }
+
+    .frase-potente {
+      font-size: 1.6rem;
+      text-align: center;
+      margin: 2rem 0;
+      padding: 1.5rem;
+      background: #f3efdf;
+      border-left: 6px solid #b8a77d;
+      border-radius: 12px;
+      font-style: italic;
+      color: #3f3a2e;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.02);
+    }
+
+    .descrizione {
+      font-size: 1.1rem;
+      margin: 1.8rem 0;
+      text-align: justify;
+    }
+
+    .progetti {
+      margin: 2.5rem 0 1.5rem;
+    }
+    .progetti h2 {
+      font-size: 1.5rem;
+      font-weight: normal;
+      border-left: 4px solid #b8a77d;
+      padding-left: 1rem;
+      margin-bottom: 1.5rem;
+      color: #5e5540;
+    }
+    .lista-progetti {
+      list-style: none;
+      padding-left: 0;
+    }
+    .lista-progetti li {
+      margin: 1rem 0;
+      background: #fffcf5;
+      padding: 0.8rem 1rem;
+      border-radius: 24px;
+      transition: 0.1s;
+    }
+    .lista-progetti a {
+      text-decoration: none;
+      font-size: 1.2rem;
+      font-weight: bold;
+      color: #617c4e;
+      display: block;
+    }
+    .lista-progetti a small {
+      font-size: 0.8rem;
+      font-weight: normal;
+      color: #8e8a7a;
+      display: block;
+      margin-top: 4px;
+    }
+    .lista-progetti li:hover {
+      background: #f8f3e6;
+      transform: translateX(4px);
+    }
+
+    footer {
+      text-align: center;
+      padding: 1.5rem;
+      font-size: 0.8rem;
+      border-top: 1px solid #e1daca;
+      color: #9b947c;
+      background: #fffcf5;
+      margin-top: 2rem;
+    }
+    footer a {
+      color: #7d6b48;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    @media (max-width: 550px) {
+      .frase-potente {
+        font-size: 1.2rem;
+        padding: 1rem;
+      }
+      .container {
+        padding: 1rem;
+      }
+      .logo {
+        font-size: 1.6rem;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <header>
+    <div class="logo">Inopesservices <span>— radici · evoluzione · presenza</span></div>
+  </header>
+
+  <div class="frase-potente">
+    « La pietra scartata diventa testata d'angolo »
+  </div>
+
+  <div class="descrizione">
+    Inopesservices è nato come progetto di servizi. Oggi è la <strong>casa madre silenziosa</strong> che custodisce le radici di un percorso più ampio: etica, bellezza, scrittura, provvidenza.  
+    Dai suoi rami sono nati tre progetti vivi, senza tempo, aperti a chi cerca senso e profondità.
+  </div>
+
+  <div class="progetti">
+    <h2>✧ Progetti e direzioni ✧</h2>
+    <ul class="lista-progetti">
+      <li><a href="https://antonello2907.github.io/piattaforma-etica/">🌿 Piattaforma Etica <small>Principi, comunità, visione condivisa</small></a></li>
+      <li><a href="https://antonello2907.github.io/le-lettere-di-antonino/">📜 Le Lettere di Antonino <small>Diario dell'anima, pensieri e testimonianza</small></a></li>
+      <li><a href="https://antonello2907.github.io/bellezza24/">🕯️ Bellezza24 <small>Sguardo estetico sul mondo, arte e contemplazione</small></a></li>
+    </ul>
+  </div>
+</div>
+
+<footer>
+  Inopesservices – un ponte silenzioso tra terra e cielo.  
+  <br><a href="https://antonello2907.github.io/contatti-e-supporto/">Contatti</a> — <a href="https://antonello2907.github.io/privacy/">Privacy</a>
+</footer>
+
+</body>
+</html>
